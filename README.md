@@ -9,7 +9,7 @@ This project provides tools for interacting with the Solana blockchain, includin
 ## Installation
 
 1. Clone this repository:
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/SOSJ001/create-token-with-meta-data.git](https://github.com/SOSJ001/create-token-with-meta-data.git)
 2. Navigate to the project directory
 3. Install dependencies: npm install
    
